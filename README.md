@@ -2,7 +2,7 @@
 
 Thanks for stopping by! I'm a Data Scientist with a passion for computer vision, SLAM, and the Oxford comma.
 
-- 🔭 I’m currently working on ... a project for Bridges to Prosperity
+- 🔭 I’m currently working on ... a pythonic, all purpose Discord bot that plays music, managers members, and tells jokes.
 - 🌱 I’m currently learning ... SLAM (Simultaneous Localization and Mapping)
 - 👯 I’m looking to collaborate on ... population datasets
 - 🤔 I’m looking for help with ... time-series modeling
