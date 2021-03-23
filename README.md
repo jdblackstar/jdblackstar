@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Thanks for stopping by! I'm a Data Scientist with a passion for computer vision, SLAM, and the Oxford comma.
+Thanks for stopping by! I'm a Data Engineer with a passion for computer vision, SLAM, and the Oxford comma.
 
 - 🔭 I’m currently working on ... a pythonic, all purpose Discord bot that plays music, managers members, and tells jokes.
 - 🌱 I’m currently learning ... SLAM (Simultaneous Localization and Mapping)
