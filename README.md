@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'll update this eventually, but I'm currently focused on fixing food at [Everytable](https://www.everytable.com)
+I'm focusing on some personal projects right now, but I previously worked on fixing food with [Everytable](https://www.everytable.com), bringing teams closer together with [KeeperAI](https://keeperai.com/) and implementing precision location and motion tracking at [PNI Sensor](https://www.pnicorp.com/).
